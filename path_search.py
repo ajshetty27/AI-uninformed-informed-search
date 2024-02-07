@@ -4,7 +4,7 @@ import heapq
 import math
 
 
-input = open("testcases//input7.txt", "r")
+input = open("input.txt", "r")
 #read in function type
 func_type  = str(input.readline()).strip()
 #read in uphill energy
